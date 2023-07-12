@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="28" updatableVersionMin="" updatableVersionMax="" fileName="1_windows-x64_1.exe" newVersion="1" newMediaFileId="28" fileSize="89307648" md5Sum="84d6a1654b90d33fcd2af462f9b3c4d1" sha256Sum="b80e57a1d1f697852094b25c0240b2f8955bf546460e8b6cabe21938922f3444" bundledJre="windows-amd64-11.tar.gz" archive="false" singleBundle="false">
+    <comment language="zh_CN" />
+  </entry>
+</updateDescriptor>
